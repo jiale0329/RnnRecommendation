@@ -1,0 +1,4 @@
+Install package before running
+
+pip install tensorflow==2.12.0
+pip install resource
